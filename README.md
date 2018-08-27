@@ -7,20 +7,17 @@ Next.js plugin for Egg.js
 [![Test coverage][codecov-image]][codecov-url]
 [![David deps][david-image]][david-url]
 [![Known Vulnerabilities][snyk-image]][snyk-url]
-[![npm download][download-image]][download-url]
 
 [npm-image]: https://img.shields.io/npm/v/egg-nextjs.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/egg-nextjs
-[travis-image]: https://img.shields.io/travis/eggjs/egg-nextjs.svg?style=flat-square
-[travis-url]: https://travis-ci.org/eggjs/egg-nextjs
-[codecov-image]: https://img.shields.io/codecov/c/github/eggjs/egg-nextjs.svg?style=flat-square
-[codecov-url]: https://codecov.io/github/eggjs/egg-nextjs?branch=master
-[david-image]: https://img.shields.io/david/eggjs/egg-nextjs.svg?style=flat-square
-[david-url]: https://david-dm.org/eggjs/egg-nextjs
+[travis-image]: https://travis-ci.org/h1bomb/egg-nextjs.svg?branch=master
+[travis-url]: https://travis-ci.org/h1bomb/egg-nextjs
+[codecov-image]: https://img.shields.io/codecov/c/github/h1bomb/egg-nextjs.svg?style=flat-square
+[codecov-url]: https://codecov.io/github/h1bomb/egg-nextjs?branch=master
+[david-image]: https://img.shields.io/david/h1bomb/egg-nextjs.svg?style=flat-square
+[david-url]: https://david-dm.org/h1bomb/egg-nextjs
 [snyk-image]: https://snyk.io/test/npm/egg-nextjs/badge.svg?style=flat-square
 [snyk-url]: https://snyk.io/test/npm/egg-nextjs
-[download-image]: https://img.shields.io/npm/dm/egg-nextjs.svg?style=flat-square
-[download-url]: https://npmjs.org/package/egg-nextjs
 
 
 
