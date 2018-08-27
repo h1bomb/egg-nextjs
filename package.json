@@ -1,6 +1,6 @@
 {
   "name": "egg-nextjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "eggPlugin": {
     "name": "nextjs"
@@ -53,12 +53,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-nextjs.git"
+    "url": "git+https://github.com/h1bomb/egg-nextjs.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/h1bomb/egg-nextjs/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-nextjs#readme",
+  "homepage": "https://github.com/h1bomb/egg-nextjs#readme",
   "author": "",
   "license": "MIT"
 }
