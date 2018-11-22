@@ -1,6 +1,6 @@
 {
   "name": "egg-nextjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "eggPlugin": {
     "name": "nextjs"
@@ -13,10 +13,8 @@
     "nextjs",
     "next"
   ],
-  "dependencies": {
-    "next": "^6.1.1",
-    "react": "^16.4.2",
-    "react-dom": "^16.4.2"
+  "peerDependencies": {
+    "next": "^7.0.2"
   },
   "devDependencies": {
     "autod": "^3.0.0",
@@ -27,6 +25,9 @@
     "egg-mock": "^3.13.0",
     "eslint": "^4.11.0",
     "eslint-config-egg": "^5.1.0",
+    "next": "^7.0.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
     "webstorm-disable-index": "^1.2.0"
   },
   "engines": {
