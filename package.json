@@ -14,7 +14,7 @@
     "next"
   ],
   "peerDependencies": {
-    "next": "^7.0.2"
+    "next": "*"
   },
   "devDependencies": {
     "autod": "^3.0.0",
